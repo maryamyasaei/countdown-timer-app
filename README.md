@@ -1,8 +1,17 @@
-# React + Vite
+This is a React.js project bootstrapped with npm create vite.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Getting Started
+First, run the development server:
 
-Currently, two official plugins are available:
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+Open http://localhost:3000 with your browser to see the result.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Deploy on Vercel
+This App Deplpoyed to Vercel, You can have access via this link: https://countdown-timer-app-tan.vercel.app/
